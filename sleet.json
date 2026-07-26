@@ -1,0 +1,12 @@
+{
+  "username": "",
+  "useremail": "",
+  "sources": [
+    {
+      "name": "runny",
+      "type": "local",
+      "path": "./",
+      "baseURI": "https://bojanrajkovic.github.io/choco-feed/"
+    }
+  ]
+}
